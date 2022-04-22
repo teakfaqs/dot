@@ -1,2 +1,1 @@
-# dotfiles
-Dotfiles and python init script
+## dot-files
